@@ -1,0 +1,206 @@
+{
+ "version": 11,
+ "raw": {
+  "repo_name": "pizzeria-savonarola-padova-v362",
+  "brand": {
+   "name": "Pizzeria Savonarola",
+   "tagline": "Fuoco, Amore, Tradizione",
+   "sector_en": "Pizzeria italiana a Padova",
+   "mission": "Unisci la tradizione delle pizze alla mano con ingredienti DOP veneti e campani, creando un'esperienza autentica nel cuore di Padova.",
+   "keywords": [
+    "artigianale",
+    "autentica",
+    "forno a legna",
+    "ingredienti DOP",
+    "tradizione"
+   ],
+   "palette": {
+    "bg": "#f6f1ea",
+    "fg": "#22191a",
+    "accent": "#6e1f2b",
+    "muted": "#74625f",
+    "surface": "#ebe2d8"
+   },
+   "font_display": "Gloock",
+   "font_body": "Hanken Grotesk",
+   "art_direction": "Warm earthy tones, natural soft window daylight, wood textures, 35mm film grain, shallow depth of field, authentic Italian pizzeria atmosphere"
+  },
+  "seo": {
+   "description": "Pizzeria Savonarola a Padova: pizza alla mano con ingredienti DOP e forno a legna. Prenota il tavolo online."
+  },
+  "nav_cta": {
+   "label": "Prenota Tavolo",
+   "href": "#contatti"
+  },
+  "contact": {
+   "email": "",
+   "phone": "",
+   "address": "",
+   "hours": ""
+  },
+  "experience": {
+   "mode": "classic",
+   "intro": "counter",
+   "chapters": [
+    "Tradizione",
+    "Qualità",
+    "Esperienza"
+   ]
+  },
+  "sections": [
+   {
+    "type": "hero_image",
+    "role": "attenzione",
+    "eyebrow": "Benvenuti",
+    "title": "Pizza alla Mano con *Ingredienti DOP* a Padova",
+    "subtitle": "Ingredienti DOP veneti e campani, forno a legna artigianale. Prenota il tuo tavolo nel cuore di Padova.",
+    "cta": {
+     "label": "Prenota ora",
+     "href": "#contatti"
+    },
+    "image": "client:1 hero wood-fired oven and pizza"
+   },
+   {
+    "type": "text_reveal",
+    "role": "problema",
+    "kicker": "La Vera Pizzeria",
+    "text": "Cerchi una vera pizza napoletana a Padova e trovi solo cibo congelato o ingredienti di scarsa qualita? Vuoi mangiare una pizza fatta a mano, con forno a legna e ingredienti DOP, senza accontentarti di pizza veloce confezionata. Meriti autenticita, non surrogati."
+   },
+   {
+    "type": "split",
+    "role": "soluzione",
+    "kicker": "Come Lavoriamo",
+    "title": "Dalla Mattina al Servizio",
+    "text": "Ogni mattina scegliamo gli ingredienti DOP piu freschi. Il forno a legna arriva a 485C: la pizza cuoce in 90 secondi, croccante fuori e morbida dentro. Così portiamo in tavola la vera tradizione napoletana a Padova.",
+    "bullets": [
+     "Usiamo Farina 00 Campana DOP con lievitazione naturale 48h",
+     "Selezioniamo Pomodori San Marzano DOP e mozzarella di bufala",
+     "Scaldiamo il forno a legna a mano per 2 ore"
+    ],
+    "image": "client:2 kitchen dough preparation"
+   },
+   {
+    "type": "offer",
+    "role": "offerta",
+    "kicker": "La Nostra Offerte",
+    "title": "Pizze Classiche & Speciali",
+    "text": "Scegli tra pizze fatte a mano con ingredienti selezionati. Ogni pizza è unica, creata con maestria e rispetto per la tradizione napoletana.",
+    "points": [
+     "Pizza Margherita DOP",
+     "Pizza Marinara con aglio rosso",
+     "Pizza Quattro Stagioni",
+     "Pizza Bianca con rosemary",
+     "Pizza Speciale Savonarola"
+    ],
+    "price": "Su prenotazione",
+    "note": "Ingredienti freschi e stagionali",
+    "cta": {
+     "label": "Vedi Menu Completo",
+     "href": "#contatti"
+    }
+   },
+   {
+    "type": "stats",
+    "role": "usp",
+    "kicker": "Perché Scegliere Noi",
+    "title": "La Nostra Garanzia",
+    "items": [
+     {
+      "value": "100",
+      "suffix": "%",
+      "label": "Ingredienti DOP"
+     },
+     {
+      "value": "90",
+      "suffix": "s",
+      "label": "Tempo cottura"
+     },
+     {
+      "value": "2",
+      "label": "Anni di esperienza"
+     }
+    ]
+   },
+   {
+    "type": "services",
+    "role": "prova",
+    "kicker": "Cosa Includiamo",
+    "title": "La Tua Esperienza",
+    "items": [
+     {
+      "title": "Forno a Legna Autentico",
+      "text": "Il cuore della nostra pizza: cottura a 485C per 90 secondi",
+      "image": "client:3"
+     },
+     {
+      "title": "Ingredienti DOP Campani",
+      "text": "Pomodori San Marzano, mozzarella di bufala, farina 00",
+      "image": "client:4"
+     },
+     {
+      "title": "Prenotazione Online",
+      "text": "Servizio ristorante con tavoli riservabili in anticipo",
+      "image": "client:5"
+     }
+    ]
+   },
+   {
+    "type": "cta",
+    "role": "cta",
+    "title": "Prenota il Tuo Tavolo",
+    "text": "Riserva ora per vivere l'esperienza della vera pizza alla mano. Disponibile tutti i giorni con tavoli in sala e terrazza.",
+    "cta": {
+     "label": "Prenota Ora",
+     "href": "#contatti"
+    }
+   },
+   {
+    "type": "faq",
+    "role": "faq",
+    "kicker": "Domande Frequenti",
+    "title": "Hai Domande?",
+    "items": [
+     {
+      "q": "Posso prenotare per un gruppo?",
+      "a": "Sì, accettiamo gruppi fino a 8 persone. Per gruppi più grandi contattaci direttamente."
+     },
+     {
+      "q": "Quali ingredienti usate?",
+      "a": "Ingredienti DOP veneti e campani: pomodori San Marzano, mozzarella di bufala, farina 00 Campana."
+     },
+     {
+      "q": "Quanto tempo ci vuole per la pizza?",
+      "a": "La pizza è pronta in circa 90 secondi dal forno a legna a 485C."
+     },
+     {
+      "q": "Siete adatti a bambini?",
+      "a": "Sì, il nostro menù include anche opzioni per i più piccoli e sedia al tavolo."
+     }
+    ]
+   }
+  ],
+  "todo": [
+   "Indirizzo esatto della pizzeria",
+   "Telefono di contatto",
+   "Email ufficiale",
+   "Orari di apertura",
+   "Link per prenotazione online (OpenTable, TheFork o sito dedicato)",
+   "Logo ufficiale della pizzeria",
+   "Foto del forno a legna in azione",
+   "Foto della sala ristorazione",
+   "Foto del menu completo",
+   " Eventuali foto del locale orizzontali di alta qualità per hero"
+  ]
+ },
+ "logo": null,
+ "favicon": null,
+ "model": null,
+ "video": null,
+ "images": {
+  "0fe23f1c6522": "assets/img/0fe23f1c6522.webp",
+  "d77b9c3e3801": "assets/img/d77b9c3e3801.webp",
+  "979db7a225dc": "assets/img/979db7a225dc.webp",
+  "731d2e618be6": "assets/img/731d2e618be6.webp",
+  "95f499f2c368": "assets/img/95f499f2c368.webp"
+ }
+}
